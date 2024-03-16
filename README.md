@@ -1,6 +1,6 @@
 # Flutter Projects Repository
 
-Welcome to my Flutter repository! This repository contains three Flutter projects: `mi_card`, `dice_game`, and `magic_8_ball`. Each project serves as a learning experience and showcases different aspects of Flutter development.
+Welcome to my Flutter repository! This repository contains various Flutter projects. Each project serves as a learning experience and showcases different aspects of Flutter development.
 
 ## Projects Overview
 
