@@ -29,6 +29,13 @@ Welcome to my Flutter repository! This repository contains three Flutter project
   - Basic function creation
   - Usage of conditional statements
 
+### 4. [xylophone](xylophone/)
+
+- **Description**: `xylophone` is a Flutter project that simulates a xylophone musical instrument. Tapping on each color produces a different sound, similar to playing the xylophone. This project focuses on integrating external packages for audio playback and understanding functions in detail.
+- **Key Learnings**:
+  - Integration of external packages
+  - Function creation and implementation
+  - Handling user interaction for sound playback
 
 ## License
 
@@ -36,4 +43,4 @@ This repository is licensed under the MIT License - see the [LICENSE](LICENSE) f
 
 ---
 
-Feel free to explore each project in detail and contribute to further improvements. Happy coding! 🚀
+Explore each project in detail. Happy coding! 🚀
